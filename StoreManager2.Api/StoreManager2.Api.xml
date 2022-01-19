@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StoreManager2.Api</name>
+    </assembly>
+    <members>
+        <member name="M:StoreManager2.Api.Controllers.IdentityController.GetTokenAsync(StoreManager2.Application.DTOs.Identity.TokenRequest)">
+            <summary>
+            Generates a JSON Web Token for a valid combination of emailId and password.
+            </summary>
+            <param name="tokenRequest"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
